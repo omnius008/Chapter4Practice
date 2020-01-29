@@ -1,0 +1,11 @@
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\obj\Debug\netcoreapp3.0\Chapter4Practice.csprojAssemblyReference.cache
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\obj\Debug\netcoreapp3.0\Chapter4Practice.AssemblyInfoInputs.cache
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\obj\Debug\netcoreapp3.0\Chapter4Practice.AssemblyInfo.cs
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\bin\Debug\netcoreapp3.0\Chapter4Practice.exe
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\bin\Debug\netcoreapp3.0\Chapter4Practice.deps.json
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\bin\Debug\netcoreapp3.0\Chapter4Practice.runtimeconfig.json
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\bin\Debug\netcoreapp3.0\Chapter4Practice.runtimeconfig.dev.json
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\bin\Debug\netcoreapp3.0\Chapter4Practice.dll
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\bin\Debug\netcoreapp3.0\Chapter4Practice.pdb
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\obj\Debug\netcoreapp3.0\Chapter4Practice.dll
+C:\Users\hwils\Desktop\IT242\Chapter4Practice\Chapter4Practice\Chapter4Practice\obj\Debug\netcoreapp3.0\Chapter4Practice.pdb
